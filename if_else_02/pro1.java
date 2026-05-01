@@ -7,7 +7,7 @@ class Pro1{
 	public static void main(String[]args){
 		int x=100;
 		if (x>=1 && x<=1000){
-			System.out.println("In Range");
+			System.out.println("Out Rnage");
 		}else {
 			System.out.println("Not In Range");
 			
